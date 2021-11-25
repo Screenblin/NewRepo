@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Хотите создать свой сайт, но возникают проблемы с установкой?
+![show me the data](https://pbs.twimg.com/media/EwItyszWgAIpAYy.jpg)
 
-You can use the [editor on GitHub](https://github.com/Screenblin/NewRepo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Мы занимаемся установкой и настройкой Wordpress, Perfex crm на ваш хостинг
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![show me the data](https://boss-mag.ru/wp-content/uploads/2015/01/Perenos-sayta-1-460x270.png)
+![show me the data](https://webika.site/images/perfexcrm.png)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Также предоставляем услуги по сбору информации с различных интернет сайтов, и преобразуем ее в различные форматы.
 
-# Header 1
-## Header 2
-### Header 3
+![show me the data](https://i0.wp.com/ezylearn.info/wp-content/uploads/2014/12/Microsoft-Excel-2013-Spreadsheet-training-courses-beginners-intermediate-advanced.png?resize=199%2C107)
+![show me the data](https://i.ytimg.com/vi/RwV0SXtsW5A/default.jpg)
+![show me the data](https://avtonav.ru/images/pdf.png)
+![show me the data](http://1.bp.blogspot.com/_7EzF9RleSNo/RqVaFRdE8cI/AAAAAAAAAVw/JIKLE-5w6oM/s400/sadas.jpg)
 
-- Bulleted
-- List
+**Обратитесь к нам и мы предоставим готовую информацию в необходимом для вас
+формате.**
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+С появлением интернета мы очень часто сталкиваемся с необходимостью получения
+информации из различных интернет сайтов. Многие из нас занятые люди и кропотливо
+собирать информацию в ручную нас не устраивает, именно поэтому созданы
+инструменты которые собирают информацию без участия человека.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Что требуется от вас:
 
-### Jekyll Themes
+1.  Предоставить ссылку сайта с которого необходимо собрать информацию.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Screenblin/NewRepo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+2.  Подробно описать какие данные необходимо собрать.(скачать картинки,собрать
+    ссылки,текст)
 
-### Support or Contact
+3.  Опишите в каком формате необходимо выгрузить информацию.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Всю информацию пишите на наш email: dcikirev@gmail.com и с вами
+свяжутся.
+
+
+
+
+
+
+
