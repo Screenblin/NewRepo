@@ -1,5 +1,5 @@
 # Хотите создать свой сайт, но возникают проблемы с установкой?
-### Мы занимаемся установкой и настройкой Wordpress, Perfex crm на ваш хостинг
+### Мы занимаемся установкой Wordpress, Perfex,и настройкой под ваши задачи.
 
 ![show me the data](https://boss-mag.ru/wp-content/uploads/2015/01/Perenos-sayta-1-460x270.png)
 ![show me the data](https://webika.site/images/perfexcrm.png)
