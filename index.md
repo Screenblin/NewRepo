@@ -16,7 +16,7 @@
 
 ### Также в дополнительные услуги входит установка инструментов (например модуля Elementor Pro последней версии версии.) для работы с сайтом.
 
-### 
+
 
 ### Более подробная информацию о том что такое Wordpress: <https://www.hostinger.ru/rukovodstva/chto-takoe-wordpress-obzor-populjarnoj-cms/>
 
