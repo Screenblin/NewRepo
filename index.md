@@ -8,7 +8,7 @@
 
 # 1.Установка и настройка Wordpress.
 
-![](media/a8e43aadf9e8c8bf8cba9f61551efa04.png)
+![image](https://user-images.githubusercontent.com/89390815/144544104-e8be7264-06a3-44f5-97cf-88830e9ae59e.png)
 
 ### Для заказа необходимо:
 
