@@ -3,7 +3,7 @@
 ## Мы предоставляем услуги по установке,а также настройке и расширению  под ваши задачи [Wordpress](https://www.hostinger.ru/rukovodstva/chto-takoe-wordpress-obzor-populjarnoj-cms/), [Perfex](https://inwebpress.ru/perfex-crm-sistema-upravleniya-klientami-i-proektami/) и т.д.
 Соберем по вашему запросу необходимую  информацию в интернете, проведем аналитику собранных данных и предоставим отчет.
 
-### Всю информацию по заказам отправляйте наш Email [dcikirev@gmail.com](mailto:dcikirev@gmail.com) и мы свяжемся с вами.
+### Всю информацию по заказам отправляйте наш Email support@88x88.art и мы свяжемся с вами.
 
 
 # 1.Установка и настройка [Wordpress](https://www.hostinger.ru/rukovodstva/chto-takoe-wordpress-obzor-populjarnoj-cms/)/[Perfex](https://inwebpress.ru/perfex-crm-sistema-upravleniya-klientami-i-proektami/) и прочее.
@@ -36,4 +36,4 @@
 
 ### -Какие данные нужны.
 
-### Всю информацию отправляйте на наш email: [dcikirev@gmail.com](mailto:dcikirev@gmail.com)
+### Всю информацию отправляйте на наш email: support@88x88.art
